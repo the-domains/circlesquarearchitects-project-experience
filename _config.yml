@@ -1,0 +1,28 @@
+name: CircleSquareArchitects/Project Experience
+favicon: null
+layout_spectrum: 0.6288152541965246
+typography_spectrum: 0.3379794030915946
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8448427580296993
+  lightness: 0.7344670942984521
+  saturation: 0.14287488674744964
+  rhythmicContrast: 0.8325270949862897
+purpose: []
