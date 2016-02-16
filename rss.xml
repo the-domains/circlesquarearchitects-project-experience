@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CircleSquareArchitects/Project Experience]]></title>
         <description><![CDATA[CircleSquareArchitects/Project Experience]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/circlesquarearchitects-project-experience/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 21:52:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Feb 2016 21:52:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/circlesquarearchitects-project-experience/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Recreation/Pool & Bath House/Club House</p>]]></description>
-            <link>undefinedb9afaeb1-2d50-4373-8749-df9834a48e78/index.html</link>
+            <link>https://thegrid.ai/circlesquarearchitects-project-experience/dee700b3-c876-450b-93bb-adec42bb6f98/index.html</link>
+            <guid isPermaLink="false">dee700b3-c876-450b-93bb-adec42bb6f98</guid>
+            <pubDate>Tue, 16 Feb 2016 21:52:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Recreation/Pool & Bath House/Club House</p>]]></description>
+            <link>https://thegrid.ai/circlesquarearchitects-project-experience/b9afaeb1-2d50-4373-8749-df9834a48e78/index.html</link>
             <guid isPermaLink="false">b9afaeb1-2d50-4373-8749-df9834a48e78</guid>
             <pubDate>Tue, 16 Feb 2016 21:52:06 GMT</pubDate>
         </item>
